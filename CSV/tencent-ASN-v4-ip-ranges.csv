@@ -1,0 +1,11 @@
+﻿ip,description,category
+43.146.0.0/15,tencent-v4,Tencent ASN
+43.148.0.0/14,tencent-v4,Tencent ASN
+43.176.0.0/12,tencent-v4,Tencent ASN
+103.95.224.0/22,tencent-v4,Tencent ASN
+114.117.144.0/20,tencent-v4,Tencent ASN
+142.70.0.0/16,tencent-v4,Tencent ASN
+142.86.0.0/16,tencent-v4,Tencent ASN
+149.41.0.0/16,tencent-v4,Tencent ASN
+150.248.0.0/16,tencent-v4,Tencent ASN
+158.79.0.0/24,tencent-v4,Tencent ASN

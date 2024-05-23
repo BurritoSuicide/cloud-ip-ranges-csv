@@ -1,0 +1,11 @@
+﻿ip,description,category
+8.128.0.0/16,alibaba-v4,Alibaba Cloud ASN
+8.148.36.0/22,alibaba-v4,Alibaba Cloud ASN
+8.148.40.0/21,alibaba-v4,Alibaba Cloud ASN
+8.148.48.0/20,alibaba-v4,Alibaba Cloud ASN
+8.148.64.0/18,alibaba-v4,Alibaba Cloud ASN
+8.148.128.0/17,alibaba-v4,Alibaba Cloud ASN
+8.150.0.0/15,alibaba-v4,Alibaba Cloud ASN
+8.152.0.0/13,alibaba-v4,Alibaba Cloud ASN
+8.160.0.0/11,alibaba-v4,Alibaba Cloud ASN
+8.208.136.0/22,alibaba-v4,Alibaba Cloud ASN
