@@ -1,7 +1,6 @@
 # cloud-ip-ranges
 
-The idea of this repository is to have one source for all major cloud providers,
-which shows their assigned IP ranges.
+Forked from femueller, this repo will contain major cloud provider IP ranges formatted in CSV and cleaned up.
 
 ## Data sources
 
@@ -9,13 +8,13 @@ which shows their assigned IP ranges.
 * Cloudflare
     * IPv4 - https://www.cloudflare.com/ips-v4
     * IPv6 - https://www.cloudflare.com/ips-v6
-* DigitalOcean (DO) - https://digitalocean.com/geo/google.csv
-* Google Cloud (GCloud) - https://www.gstatic.com/ipranges/cloud.json
+* DigitalOcean - https://digitalocean.com/geo/google.csv
+* Google Cloud - https://www.gstatic.com/ipranges/cloud.json
 * Oracle Cloud - https://docs.oracle.com/iaas/tools/public_ip_ranges.json
 * Linode - https://geoip.linode.com/
 
 ### Missing data (to add)
 
 * Azure - https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses
-* Tencent Cloud
-* Alibaba Cloud (Aliyun)
+* Tencent Cloud (https://www.ip2location.com/as133478)
+* Alibaba Cloud (https://udger.com/resources/datacenter-list/datacenter-detail?name=alicloud) - Best I could find, contains most.
