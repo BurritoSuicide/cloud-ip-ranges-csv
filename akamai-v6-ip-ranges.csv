@@ -1,0 +1,4 @@
+﻿ip,description,category
+2a02:26f0::/32,akamai-v6,Akamai
+2600:1400::/24,akamai-v6,Akamai
+2405:9600::/32,akamai-v6,Akamai
