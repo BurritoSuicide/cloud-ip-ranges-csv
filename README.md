@@ -1,6 +1,6 @@
-# cloud-ip-ranges
+# IP-Ranges-CSV
 
-Forked from femueller, this repo will contain major cloud provider IP ranges formatted in CSV and cleaned up.
+Forked from femueller, this repo will contain major provider IP ranges formatted in CSV and cleaned up.
 
 ## Data sources
 
@@ -16,8 +16,8 @@ Forked from femueller, this repo will contain major cloud provider IP ranges for
 ### Missing data
 
 * Azure - https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses
-* Tencent Cloud (https://www.ip2location.com/as133478)
-* Alibaba Cloud (https://udger.com/resources/datacenter-list/datacenter-detail?name=alicloud) - Best I could find, contains most.
+* Tencent - (https://www.ip2location.com/as133478)
+* Alibaba - (https://udger.com/resources/datacenter-list/datacenter-detail?name=alicloud) - Best I could find, contains most.
 
 ### To Do
 
