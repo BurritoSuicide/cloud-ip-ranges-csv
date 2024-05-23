@@ -16,9 +16,5 @@ Forked from femueller, this repo will contain major provider IP ranges formatted
 ### Missing data
 
 * Azure - https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses
-* Tencent - (https://www.ip2location.com/as133478)
-* Alibaba - (https://udger.com/resources/datacenter-list/datacenter-detail?name=alicloud) - Best I could find, contains most.
-
-### To Do
-
-* Make a script that converts all JSON files to CSV. Unfortunately most json's are formatted differently and requires different code.
+* Tencent - (https://www.ip2location.com/as133478) - ASN
+* Alibaba - (https://udger.com/resources/datacenter-list/datacenter-detail?name=alicloud) - ASN
